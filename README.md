@@ -1,1 +1,1 @@
-A Basic tailwind learning projects folder.
+**A Basic tailwind learning projects folder.**
